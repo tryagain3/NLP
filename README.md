@@ -6,6 +6,7 @@ Goal:
 
 for windows user, plesae follow the below setps to enlist and set virtual environment
 1 install latest git from https://git-scm.com/downloads 
+
 2 install laste python from https://www.python.org/downloads/windows/ (make sure pip package is installed)
 3 go to C:\Users\%user%\AppData\Local\Programs\Python\Python37\Scripts and run "pip3 install -U pip virtualenv" to install virtualenv
 4 create a folder to enlis the respository. e.g "E:\git\"
